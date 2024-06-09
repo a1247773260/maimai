@@ -218,19 +218,19 @@
       "filterable": 0
     },
     {
-      "key": "Ysj",
-      "name": "🎀异界┃动漫",
+      "key": "Ying",
+      "name": "💮樱花┃动漫",
       "type": 3,
-      "api": "csp_Ysj",
+      "api": "csp_Ying",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "Ying",
-      "name": "💮樱花┃动漫",
+      "key": "Ysj",
+      "name": "🎀异界┃动漫",
       "type": 3,
-      "api": "csp_Ying",
+      "api": "csp_Ysj",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -511,5 +511,5 @@
       "filterable": 0
     }
   ],
-  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717600347015/wex.txt;md5;9444b0b28c5cb68ab4eaf35ac147de8e"
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717839432492/fan.txt;md5;d8f21fa84abb5ff61d7f1a0b7a78ec26"
 }
